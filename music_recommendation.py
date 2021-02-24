@@ -15,7 +15,7 @@ neighbour_recommendations = 10
 artist_based_recommendations = 10
 
 
-# function for the gui
+# centering function for the gui
 def center(win):
     # centers a tkinter window
     win.update_idletasks()
