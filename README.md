@@ -1,2 +1,2 @@
 # ProjectDT
-A simple music recommendation system using data provided from spotify
+A simple music recommendation system using a provided dataset
